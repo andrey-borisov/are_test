@@ -2,7 +2,4 @@
 # and open the template in the editor.
 
 puts "Hello World"
-puts "hi"
-puts "hi2"
-
 #ne comments#
