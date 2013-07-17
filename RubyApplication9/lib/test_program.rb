@@ -3,10 +3,10 @@
 #2.between?(1,3)
 #words = ["foo", "bar", "baz"]
 #puts (words.[](1))
-#
-#
-#def string_length_interpolater(incoming_string)
-#  "The string you just gave me has a length of "#{incoming_string.length}
+
+
+def string_length_interpolater(incoming_string)
+  "The string you just gave me has a length of "#{incoming_string.length}
 #end
 #
 #puts( "0 The string you just gave me has a length of "#{incoming_string.length}
