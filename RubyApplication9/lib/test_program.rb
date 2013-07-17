@@ -19,4 +19,7 @@ def string_length_interpolater(incoming_string)
 #
 
 
+#added new commentary:wq
+
+
 
