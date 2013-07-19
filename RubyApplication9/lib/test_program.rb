@@ -7,8 +7,8 @@
 
 def string_length_interpolater(incoming_string)
   "The string you just gave me has a length of "#{incoming_string.length}
-#end
-#
+end
+
 #puts( "0 The string you just gave me has a length of "#{incoming_string.length}
 #   )
 #  
